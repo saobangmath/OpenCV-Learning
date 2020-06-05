@@ -11,7 +11,7 @@ cv2.imshow("Blur", blur)
 kernel = np.ones((4, 4), "uint8")
 # dilate: turn black (background) pixels -> white pixels
 # erode: turn white pixels -> black (background) pixels;
-dilate = cv2.dilate(image, kernel,iterations= 1)
+dilate = cv2.dilate(image, kernel,iterations=1)
 erode = cv2.erode(image, kernel, iterations=1)
 
 cv2.imshow("Dilate", dilate)
