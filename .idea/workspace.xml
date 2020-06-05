@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4889b3be-4f9c-4ede-8044-405f216b6cd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/02_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/02_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/My image.png" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/My image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin/02_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin/02_09.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,24 +25,24 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jpg" value="5" />
-          <entry key="png" value="2" />
-          <entry key="py" value="18" />
+          <entry key="png" value="5" />
+          <entry key="py" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="7" />
-          <entry key="Python" value="18" />
+          <entry key="Image" value="10" />
+          <entry key="Python" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="3945" />
+          <entry key="py" value="4353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="3945" />
+          <entry key="Python" value="4353" />
         </counts>
       </usages-collector>
     </session>
@@ -48,12 +50,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/02_08.py">
+        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin/02_09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="368">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+                <marker date="1591335171420" expanded="true" signature="158:324" ph="..." />
               </folding>
             </state>
           </provider>
@@ -74,13 +77,14 @@
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_06 Begin/02_06.py" />
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_07 Begin/02_07.py" />
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/02_08.py" />
+        <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin/02_09.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
     <option name="y" value="-15" />
-    <option name="width" value="1935" />
+    <option name="width" value="1948" />
     <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -157,6 +161,14 @@
             </path>
             <path>
               <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch02" type="462c0819:PsiDirectoryNode" />
+              <item name="02_09 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -182,7 +194,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="02_07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="02_09" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ex_Files_OpenCV_Python_Dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,11 +202,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/02_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin/02_09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +217,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_07" />
+        <item itemvalue="Python.02_09" />
       </list>
     </recent_temporary>
   </component>
@@ -223,23 +235,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="762" y="0" width="779" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18626156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.076612905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3319027" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33144477" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32761088" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3319027" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -378,10 +390,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/02_08.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="297">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/My image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin/02_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1591335171420" expanded="true" signature="158:324" ph="..." />
           </folding>
         </state>
       </provider>
