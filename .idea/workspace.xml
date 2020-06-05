@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4889b3be-4f9c-4ede-8044-405f216b6cd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/03_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/03_06.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,40 +24,35 @@
         <counts>
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="7" />
-          <entry key="png" value="6" />
-          <entry key="py" value="30" />
+          <entry key="png" value="7" />
+          <entry key="py" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="14" />
-          <entry key="Python" value="30" />
+          <entry key="Image" value="15" />
+          <entry key="Python" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="7645" />
+          <entry key="py" value="7985" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="7645" />
+          <entry key="Python" value="7985" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/faces.jpeg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py">
+        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/03_06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            <state relative-caret-position="252">
+              <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -91,12 +86,13 @@
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_02 Begin/03_02.py" />
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_03 Begin/03_03.py" />
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py" />
+        <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/03_06.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1905" />
-    <option name="width" value="1940" />
+    <option name="width" value="1948" />
     <option name="height" value="2075" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -141,6 +137,14 @@
             </path>
             <path>
               <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="03_06 Begin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -166,7 +170,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="03_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="03_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ex_Files_OpenCV_Python_Dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/03_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +193,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_04" />
+        <item itemvalue="Python.03_06" />
       </list>
     </recent_temporary>
   </component>
@@ -207,10 +211,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="776" height="830" extended-state="0" />
+    <frame x="762" y="0" width="779" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.06586021" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -439,13 +443,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/faces.jpeg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py">
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/detect_blob.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/03_06.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="252">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
