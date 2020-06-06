@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4889b3be-4f9c-4ede-8044-405f216b6cd9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_08 Begin/03_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_08 Begin/03_08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/03_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/03_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_11 Solution/03_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_11 Solution/03_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch04/04_03 Begin/04_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch04/04_03 Begin/04_03.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,78 +15,48 @@
     <session id="-1223261986">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="jpeg" value="2" />
           <entry key="jpg" value="9" />
+          <entry key="md" value="1" />
           <entry key="png" value="13" />
-          <entry key="py" value="46" />
+          <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="24" />
-          <entry key="Python" value="46" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9929" />
+          <entry key="py" value="10376" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9929" />
+          <entry key="Python" value="10376" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1513962659/cv2/cv2/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="6501" column="4" selection-start-line="6501" selection-start-column="4" selection-end-line="6501" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_11 Solution/03_10.py">
+        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch04/04_03 Begin/04_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_07 Begin/03_07.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-377">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="242">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -125,12 +93,13 @@
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_06 Begin/03_06.py" />
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_07 Begin/03_07.py" />
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_08 Begin/03_08.py" />
-        <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/03_10.py" />
         <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_11 Solution/03_10.py" />
+        <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/03_10.py" />
+        <option value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch04/04_03 Begin/04_03.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1905" />
     <option name="width" value="1948" />
     <option name="height" value="2075" />
@@ -165,55 +134,15 @@
               <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch04" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
-              <item name="03_02 Begin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
-              <item name="03_03 Begin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
-              <item name="03_04 Begin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
-              <item name="03_06 Begin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
-              <item name="03_07 Begin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Ex_Files_OpenCV_Python_Dev" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch03" type="462c0819:PsiDirectoryNode" />
-              <item name="03_10 Begin" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch04" type="462c0819:PsiDirectoryNode" />
+              <item name="04_03 Begin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ex_Files_OpenCV_Python_Dev" type="b2602c69:ProjectViewProjectNode" />
@@ -242,7 +171,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="03_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ex_Files_OpenCV_Python_Dev" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch04/04_03 Begin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/03_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch04/04_03 Begin/04_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +194,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_10" />
+        <item itemvalue="Python.04_03" />
       </list>
     </recent_temporary>
   </component>
@@ -283,20 +212,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="762" y="0" width="779" height="830" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35997358" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.33144477" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31586403" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31473532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33762518" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3404864" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -358,15 +288,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_05 End/gray.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_05 End/gray.jpg" />
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_05 Begin/gray.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -380,9 +305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-133">
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -390,9 +312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -400,41 +319,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_07 End/02_07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_05 End/02_05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/My image.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/My image.jpg" />
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_08 Begin/02_08.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -442,22 +344,12 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 End/02_09.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch02/02_09 Begin/02_09.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-            <marker date="1591335455094" expanded="true" signature="221:436" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -468,9 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="37" column="23" lean-forward="true" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -478,9 +367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,9 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -507,9 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -517,9 +397,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -533,16 +410,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/fuzzy.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_07 Begin/03_07.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-377">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -552,37 +444,34 @@
     <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1513962659/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
-          <caret line="6501" column="4" selection-start-line="6501" selection-start-column="4" selection-end-line="6501" selection-end-column="4" />
+          <caret line="2247" column="62" selection-start-line="2247" selection-start-column="62" selection-end-line="2247" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_11 Solution/03_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/03_10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_04 Begin/03_04.py">
+    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch04/04_03 Begin/04_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_10 Begin/fuzzy.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ex_Files_OpenCV_Python_Dev/Exercise Files/Ch03/03_11 Solution/03_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="242">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
